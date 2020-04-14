@@ -10,5 +10,6 @@ Un blog increible
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos
 * Creado de forma didactita
+* Incluye ejemplos en windows y linux
 
 Recordatorio: **Este readme es un chiste**. Diseñado para el ejemplo.
