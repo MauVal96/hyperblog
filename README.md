@@ -9,6 +9,6 @@ Un blog increible
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos
-* Creado de forma didactita
+* Creado de forma didactica
 
 Recordatorio: **Este readme es un chiste**. Diseñado para el ejemplo.
