@@ -1,6 +1,6 @@
-# Hyperblog  :tw-1f49a:
+# Hyperblog 💚
 Un blog increible
->El curso de Git y Github es lo que me hacia falta para triplicar mi salario y lanzarme a la infustri del tejido de lana sintetica con machine learning.
+> El curso de Git y Github es lo que me hacia falta para triplicar mi salario y lanzarme a la industria del tejido de lana sintetica con machine learning.
 >  - Project Manager
 
 ## En este curso vemos de todo:
