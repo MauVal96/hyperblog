@@ -11,5 +11,6 @@ Un blog increible
 * Trucos muy locos
 * Creado de forma didactita
 * Incluye ejemplos en windows y linux
+* Disponible para todas las edades
 
 Recordatorio: **Este readme es un chiste**. Diseñado para el ejemplo.
